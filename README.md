@@ -9,7 +9,12 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Was an architectural designer.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangshi0512&layout=compact&exclude_repo=Leetcode)](https://github.com/zhangshi0512/github-readme-stats)
+<div class='container'>
+<img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangshi0512&layout=compact&exclude_repo=Leetcode" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 43%;" class="img" src="https://github-readme-stats.vercel.app/api?username=zhangshi0512&show_icons=true&theme=default" /></div>
+</div>
 
 <!--
 **zhangshi0512/zhangshi0512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
