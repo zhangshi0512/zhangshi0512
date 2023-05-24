@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👨‍🎓 I’m currently studying computer science at Northeastern University.
 - 🔭 I’m currently working on webapp projects, data structure and algorithms.
-- 🌱 I’m currently learning Javascript, CSS, html.
+- 🌱 I’m currently learning C++.
 - 👯 I’m looking to collaborate on full-stack web apps and mobile apps.
 - 🤔 I’m looking for help with leetcode practice.
 - 💬 Ask me about python basics, data visualization, UX design, front end.
