@@ -10,7 +10,7 @@
 - ⚡ Fun fact: Was an architectural designer.
 
 <div class='container'>
-<img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangshi0512&layout=compact&exclude_repo=flask_blog,DevTools,Leetcode,cs5330_project06_landmark,data-dashboard,Quiz-App-Project,microsoft-passport-challenge,amplify-maps" />
+<img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangshi0512&layout=compact&exclude_repo=flask_blog,DevTools,Leetcode,cs5330_project06_landmark,data-dashboard,Quiz-App-Project,microsoft-passport-challenge,amplify-maps,ycsb-data-backend" />
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 34%;" class="img" src="https://github-readme-stats.vercel.app/api?username=zhangshi0512&hide_rank=true&show_icons=true&theme=default" /></div>
