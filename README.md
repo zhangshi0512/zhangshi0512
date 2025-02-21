@@ -1,10 +1,10 @@
 ### Hi there 👋
-- 👨‍🎓 I’m currently studying computer science at Northeastern University, also co-registered under computer information technology program at University of Pennsylvania.
-- 🔭 I’m currently working on webapp projects, data structure and algorithms.
-- 🌱 I’m currently learning database and generative AI.
-- 👯 I’m looking to collaborate on full-stack web apps and mobile apps.
-- 🤔 I’m looking for help with leetcode practice.
-- 💬 Ask me about python basics, data visualization, UX design, front end.
+- 👨‍🎓 I’m currently studying computer science at Northeastern University.
+- 🔭 I’m currently working on GenAI projects, including social app and productivity tools.
+- 🌱 I’m currently learning big data and distributed systems.
+- 👯 I’m looking to collaborate on more GenAI projects, open to both web and mobile applications.
+- 🤔 I’m looking for help with running llm on computing limited device.
+- 💬 Ask me about web and mobile development, data visualization, UX design, database.
 - 📫 How to reach me: https://www.linkedin.com/in/zhangshisimon/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Was an architectural designer.
