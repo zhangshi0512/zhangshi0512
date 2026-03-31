@@ -56,11 +56,11 @@
 
 <table>
   <tr>
-    <td>
-      <img src="./profile/top-langs.svg" />
+    <td valign="top" width="50%">
+      <img src="./profile/top-langs.svg" width="100%" />
     </td>
-    <td>
-      <img src="./profile/stats.svg" />
+    <td valign="top" width="50%">
+      <img src="./profile/stats.svg" width="100%" />
     </td>
   </tr>
 </table>
